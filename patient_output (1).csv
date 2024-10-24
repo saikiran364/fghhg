@@ -1,0 +1,1001 @@
+PATIENT_NAME,HOSPITAL,BODE_SCORE,BODE_RISK
+Vanessa Roberts,ST.LUKE'S,1,80
+Christopher Fox,SAINT LOUIS UNIVERSITY,3,67
+Benjamin Johnston,BJC,1,80
+Christopher Hernandez,MISSOURI BAPTIST,1,80
+Valerie Burch,BJC WEST COUNTY,0,80
+Heather Hart,SAINT LOUIS UNIVERSITY,3,67
+Ronald Cobb,ST.MARY'S,4,67
+Austin French,SAINT LOUIS UNIVERSITY,6,57
+Mary Leonard,BJC,5,57
+Mrs. Nicole Smith,ST.MARY'S,3,67
+Ashley Warren,BJC,5,57
+Jeffrey Jacobson,BJC WEST COUNTY,4,67
+Angela Bauer,BJC WEST COUNTY,3,67
+Jerry Rogers,BJC,2,80
+Lisa Beck,BJC,2,80
+Bryan Pena,SAINT LOUIS UNIVERSITY,4,67
+Jessica Henderson,SAINT LOUIS UNIVERSITY,1,80
+Daniel Mitchell,MISSOURI BAPTIST,3,67
+Melanie Graham,BJC,1,80
+Deborah Jimenez,MISSOURI BAPTIST,3,67
+Kathryn Rasmussen,BJC WEST COUNTY,1,80
+Brian Leon,BJC,3,67
+Robert Walker,MISSOURI BAPTIST,5,57
+Drew Case,MISSOURI BAPTIST,4,67
+Joshua Finley,ST.LUKE'S,4,67
+Danny Smith,BJC,3,67
+Jennifer Smith,SAINT LOUIS UNIVERSITY,4,67
+John Figueroa,ST.LUKE'S,3,67
+William Whitehead,ST.MARY'S,3,67
+Paul Trujillo,ST.LUKE'S,4,67
+Tiffany Lewis,SAINT LOUIS UNIVERSITY,0,80
+Randall Horn,ST.MARY'S,0,80
+Christopher Maldonado,MISSOURI BAPTIST,3,67
+Darren Fletcher,BJC WEST COUNTY,2,80
+Nathan Arnold,SAINT LOUIS UNIVERSITY,3,67
+Jamie Reeves,ST.LUKE'S,3,67
+Ian Murphy,MISSOURI BAPTIST,2,80
+Edward Blackwell,MISSOURI BAPTIST,1,80
+Allen Lee,ST.MARY'S,4,67
+Anthony Dorsey,MISSOURI BAPTIST,5,57
+John Fitzpatrick,ST.MARY'S,2,80
+Erin Ortiz,ST.MARY'S,2,80
+Amanda Garcia,MISSOURI BAPTIST,5,57
+Michael Rangel,ST.LUKE'S,3,67
+John Snyder,BJC WEST COUNTY,2,80
+Dana Mcdonald,ST.MARY'S,3,67
+Selena Rocha,BJC WEST COUNTY,2,80
+Anna Lopez,MISSOURI BAPTIST,4,67
+Keith Smith,MISSOURI BAPTIST,1,80
+Bryan Smith,MISSOURI BAPTIST,3,67
+Jennifer Tyler,BJC WEST COUNTY,4,67
+Lynn Black,ST.LUKE'S,1,80
+Alan Johnson,BJC WEST COUNTY,2,80
+Melinda Summers,MISSOURI BAPTIST,3,67
+Larry Waters,MISSOURI BAPTIST,4,67
+Roy Alvarez,SAINT LOUIS UNIVERSITY,4,67
+David Wong,MISSOURI BAPTIST,0,80
+Pedro Kelly,ST.LUKE'S,2,80
+David Robertson,ST.LUKE'S,2,80
+William Mayo,MISSOURI BAPTIST,3,67
+Beth Perkins,BJC WEST COUNTY,1,80
+Robert Pierce,ST.LUKE'S,3,67
+Rebecca Jones,ST.LUKE'S,3,67
+Christina Johnson,SAINT LOUIS UNIVERSITY,3,67
+Denise Powell,BJC WEST COUNTY,2,80
+Patrick Costa,ST.LUKE'S,5,57
+Scott Campbell,ST.MARY'S,1,80
+Cassandra Flores,MISSOURI BAPTIST,5,57
+Brandon Lee,ST.MARY'S,3,67
+Katie Reed,ST.LUKE'S,0,80
+Thomas Gonzalez,ST.LUKE'S,2,80
+Kayla Mcdowell,ST.LUKE'S,1,80
+Edward Wallace,ST.LUKE'S,4,67
+Laura Chaney,ST.LUKE'S,3,67
+Dr. William Clark II,BJC,2,80
+Jared Sherman,BJC WEST COUNTY,3,67
+David Martin,SAINT LOUIS UNIVERSITY,4,67
+Yolanda Hall,ST.LUKE'S,2,80
+Jasmine Brown,ST.LUKE'S,5,57
+Laurie Campbell,BJC,5,57
+Dillon Jones,MISSOURI BAPTIST,4,67
+Stephen Perez,MISSOURI BAPTIST,4,67
+James Walls,SAINT LOUIS UNIVERSITY,4,67
+Ronnie Mathews,ST.LUKE'S,5,57
+Melissa Thompson,BJC,2,80
+Misty Leonard,ST.MARY'S,6,57
+Monica Bradford,SAINT LOUIS UNIVERSITY,3,67
+Angela Jordan,MISSOURI BAPTIST,3,67
+Stephanie Brown,ST.LUKE'S,3,67
+Anthony Davis,MISSOURI BAPTIST,4,67
+Maria Davis,SAINT LOUIS UNIVERSITY,1,80
+Kelly Patterson,ST.MARY'S,5,57
+Ryan Pittman Jr.,ST.LUKE'S,4,67
+Jonathan Stein,SAINT LOUIS UNIVERSITY,1,80
+Alex Cooper,BJC,1,80
+Kelly Jordan,MISSOURI BAPTIST,0,80
+Andrea Lopez,ST.MARY'S,3,67
+Paul Tucker,ST.LUKE'S,2,80
+Cynthia Murphy,BJC WEST COUNTY,2,80
+Matthew Lewis,BJC WEST COUNTY,3,67
+Austin Sanders,BJC,0,80
+Ronald Phillips,SAINT LOUIS UNIVERSITY,5,57
+John Snow,BJC,6,57
+Joan Hahn,BJC,4,67
+Daniel Camacho,BJC WEST COUNTY,3,67
+Gary Martin,BJC WEST COUNTY,3,67
+Christina Moyer,MISSOURI BAPTIST,3,67
+Derek Gibson,MISSOURI BAPTIST,2,80
+Michael Fox,ST.LUKE'S,3,67
+Alex Terry,BJC,3,67
+Kelsey Hill,SAINT LOUIS UNIVERSITY,4,67
+Dana Wise,SAINT LOUIS UNIVERSITY,3,67
+William Hughes,SAINT LOUIS UNIVERSITY,4,67
+Cassandra Holt,BJC,1,80
+Dr. Christopher Henderson,MISSOURI BAPTIST,6,57
+Amanda Cox,BJC,3,67
+Morgan Kirk,SAINT LOUIS UNIVERSITY,4,67
+Scott Jones,ST.LUKE'S,5,57
+Chelsea Bailey,ST.MARY'S,3,67
+Andrew Vasquez,BJC WEST COUNTY,2,80
+Michelle Lyons,SAINT LOUIS UNIVERSITY,3,67
+Shelley Williams,MISSOURI BAPTIST,2,80
+Elizabeth Jimenez,BJC WEST COUNTY,0,80
+Julia Sanders,SAINT LOUIS UNIVERSITY,2,80
+Kimberly Cox,BJC,1,80
+Bryan Pearson,ST.MARY'S,0,80
+Taylor Stewart,ST.MARY'S,2,80
+Catherine Lindsey,SAINT LOUIS UNIVERSITY,1,80
+Justin Daniels,MISSOURI BAPTIST,2,80
+Chad Perez,BJC,4,67
+Amy Harper,MISSOURI BAPTIST,1,80
+Monica Williamson,BJC WEST COUNTY,5,57
+Todd Austin,MISSOURI BAPTIST,5,57
+James Smith,SAINT LOUIS UNIVERSITY,4,67
+Robert Lowe,BJC,5,57
+Amy Vasquez,MISSOURI BAPTIST,3,67
+Stephen Hess,ST.LUKE'S,2,80
+John Brown,ST.MARY'S,2,80
+Robert Williams,BJC,2,80
+Daniel Hamilton,BJC WEST COUNTY,3,67
+Jennifer Diaz,BJC WEST COUNTY,3,67
+Karen Taylor,ST.LUKE'S,2,80
+Amy Mitchell,BJC,2,80
+Jacqueline Castillo,BJC WEST COUNTY,2,80
+Samuel Santana,MISSOURI BAPTIST,4,67
+Kevin Hartman,ST.LUKE'S,1,80
+Mr. Jeffrey Gomez,MISSOURI BAPTIST,3,67
+Antonio Greene,ST.MARY'S,1,80
+Lindsey Lewis,BJC,4,67
+Jennifer Perez,BJC,4,67
+Tara Johns,SAINT LOUIS UNIVERSITY,4,67
+Matthew Roberts,ST.MARY'S,4,67
+Theresa Miller,ST.MARY'S,3,67
+Michael Salinas,MISSOURI BAPTIST,5,57
+Leslie Hudson,ST.LUKE'S,0,80
+Daniel Gilmore,MISSOURI BAPTIST,1,80
+George Perez,BJC,3,67
+Kristine Kelly,BJC WEST COUNTY,2,80
+Grant Clements,ST.MARY'S,5,57
+April Johnston,ST.LUKE'S,2,80
+Jason Robinson,MISSOURI BAPTIST,4,67
+Dustin Brandt,BJC WEST COUNTY,3,67
+Jack Dunn,SAINT LOUIS UNIVERSITY,2,80
+Patricia Watson,BJC,3,67
+Shirley Williams,BJC WEST COUNTY,6,57
+Garrett Rivera,ST.MARY'S,0,80
+Shirley Jones,MISSOURI BAPTIST,2,80
+Thomas Curtis,MISSOURI BAPTIST,3,67
+Antonio Hanson,ST.LUKE'S,3,67
+Pamela Roberts,SAINT LOUIS UNIVERSITY,2,80
+Andrea Kim,SAINT LOUIS UNIVERSITY,5,57
+Michael West,ST.LUKE'S,1,80
+Diana Perez,BJC WEST COUNTY,2,80
+Steve Jones,ST.LUKE'S,4,67
+Kerry Ali,SAINT LOUIS UNIVERSITY,2,80
+Megan Jenkins,BJC,6,57
+Michael Kennedy,ST.LUKE'S,5,57
+Vicki Riley,SAINT LOUIS UNIVERSITY,5,57
+Eric Parks,BJC,2,80
+James Avery,BJC,5,57
+Patrick Berry,MISSOURI BAPTIST,2,80
+Connie Campbell,BJC WEST COUNTY,2,80
+Terri Kelly MD,MISSOURI BAPTIST,1,80
+Cristian Cruz,BJC,5,57
+David King,MISSOURI BAPTIST,2,80
+Sarah Hogan,SAINT LOUIS UNIVERSITY,3,67
+Cassandra Stone,ST.LUKE'S,3,67
+Andrea Perkins,ST.MARY'S,5,57
+Daniel Abbott,BJC,5,57
+Steve Black,SAINT LOUIS UNIVERSITY,0,80
+David Hanson,SAINT LOUIS UNIVERSITY,4,67
+Denise Buchanan,MISSOURI BAPTIST,3,67
+Jennifer Adams,MISSOURI BAPTIST,1,80
+Carrie Jackson,BJC WEST COUNTY,1,80
+Zachary Hines,ST.MARY'S,5,57
+Brian Morgan,ST.MARY'S,3,67
+Wanda Olson,BJC,6,57
+Jennifer Contreras,BJC,4,67
+Robert Ferguson,ST.MARY'S,1,80
+Savannah Webb,MISSOURI BAPTIST,6,57
+Catherine Christian,ST.LUKE'S,2,80
+Briana Reed,BJC WEST COUNTY,3,67
+Michael Garcia,ST.LUKE'S,5,57
+William Smith,ST.LUKE'S,4,67
+Christopher Houston,ST.MARY'S,4,67
+Joanne Rivera,BJC WEST COUNTY,1,80
+Lisa Lopez,MISSOURI BAPTIST,3,67
+Nancy Shelton,ST.LUKE'S,3,67
+Caitlin Little,ST.LUKE'S,2,80
+Susan Watts,BJC WEST COUNTY,2,80
+Dana Wilson,ST.MARY'S,2,80
+Thomas Lopez,ST.LUKE'S,2,80
+David Miles,BJC,4,67
+Derrick Henderson,MISSOURI BAPTIST,4,67
+Christine Smith,SAINT LOUIS UNIVERSITY,2,80
+Tara Ramsey,BJC WEST COUNTY,3,67
+Barbara Cummings,ST.LUKE'S,5,57
+Eric Kim,MISSOURI BAPTIST,4,67
+Ashley Cruz,BJC,3,67
+Nicole Davis,MISSOURI BAPTIST,3,67
+Robert Marshall,ST.LUKE'S,1,80
+Terri Phillips,ST.MARY'S,4,67
+Bradley Zavala,SAINT LOUIS UNIVERSITY,2,80
+Erin Turner,ST.MARY'S,1,80
+Jackie Lee,SAINT LOUIS UNIVERSITY,1,80
+Joseph Burnett,SAINT LOUIS UNIVERSITY,5,57
+Cassandra Marks,ST.LUKE'S,3,67
+Steven Massey,SAINT LOUIS UNIVERSITY,5,57
+Anthony Summers,BJC WEST COUNTY,2,80
+Brian Sullivan,MISSOURI BAPTIST,3,67
+Shirley Garcia,ST.LUKE'S,3,67
+Anthony Cruz,BJC WEST COUNTY,3,67
+Barbara Miller,ST.MARY'S,3,67
+Margaret Bartlett,BJC,2,80
+Rebecca Hunter,BJC,3,67
+Andrew Cabrera,BJC WEST COUNTY,5,57
+Jeremy Mitchell,BJC,1,80
+Erin Gonzalez,ST.LUKE'S,5,57
+James Powell,MISSOURI BAPTIST,4,67
+William Bailey,ST.MARY'S,4,67
+Megan White,ST.MARY'S,3,67
+William Murphy,BJC,1,80
+Robert Rodriguez,SAINT LOUIS UNIVERSITY,3,67
+David Mcdonald,ST.MARY'S,3,67
+Jennifer Hart,SAINT LOUIS UNIVERSITY,2,80
+Anna Clark,ST.MARY'S,3,67
+Joseph Welch,ST.MARY'S,0,80
+Katrina Gilmore,BJC,4,67
+Peter Jefferson,BJC,2,80
+Jesse Crawford,BJC WEST COUNTY,0,80
+Tracy Vaughan,MISSOURI BAPTIST,5,57
+James Ryan,BJC,3,67
+Jordan Richards,SAINT LOUIS UNIVERSITY,1,80
+Jennifer Walton,SAINT LOUIS UNIVERSITY,5,57
+Kathleen Pineda,SAINT LOUIS UNIVERSITY,5,57
+William Gray,MISSOURI BAPTIST,1,80
+Andrea Mccarthy,BJC WEST COUNTY,2,80
+Todd Murphy,MISSOURI BAPTIST,3,67
+William Owens,ST.LUKE'S,4,67
+Valerie Hansen,ST.MARY'S,3,67
+Travis Flores,ST.MARY'S,6,57
+James Hernandez,MISSOURI BAPTIST,2,80
+Christopher Bowers,BJC WEST COUNTY,6,57
+Vanessa Miller,MISSOURI BAPTIST,1,80
+Joel Dunlap,ST.LUKE'S,6,57
+Rachel Ortiz,MISSOURI BAPTIST,2,80
+Erin Lyons,BJC WEST COUNTY,2,80
+Rachel Chen,SAINT LOUIS UNIVERSITY,1,80
+Mary Wood,ST.LUKE'S,2,80
+Glenn Mcintosh,ST.MARY'S,1,80
+Amber Patterson,ST.MARY'S,3,67
+George Smith,MISSOURI BAPTIST,3,67
+Kayla Hammond,MISSOURI BAPTIST,1,80
+Aaron Shelton,MISSOURI BAPTIST,0,80
+Tara James,BJC,1,80
+Anne Ferguson,ST.LUKE'S,2,80
+Joshua Ferguson,ST.MARY'S,5,57
+Pamela Martin,BJC,4,67
+Kristen Williams,BJC,4,67
+Paul Donovan,BJC,5,57
+Jill Krause,BJC WEST COUNTY,1,80
+Thomas Smith,BJC WEST COUNTY,3,67
+Shannon Fowler DDS,MISSOURI BAPTIST,1,80
+Daniel Burns,ST.MARY'S,3,67
+Jonathan Silva,SAINT LOUIS UNIVERSITY,3,67
+Sheri Tanner,BJC WEST COUNTY,5,57
+Fred Clark,BJC WEST COUNTY,3,67
+Mrs. Tracy Mercer,BJC,4,67
+Ryan Reynolds,ST.LUKE'S,5,57
+Kelsey Roberson,BJC WEST COUNTY,2,80
+Jack Bonilla,ST.MARY'S,3,67
+Melissa Herrera,BJC WEST COUNTY,2,80
+Lisa Robinson,BJC,1,80
+Megan Marshall,ST.MARY'S,3,67
+Ricky Williams,BJC,1,80
+Brandon Wagner,ST.LUKE'S,2,80
+Gary Cox,MISSOURI BAPTIST,2,80
+Edward Joyce,ST.LUKE'S,4,67
+Angela Cruz,BJC,2,80
+Billy Smith,BJC WEST COUNTY,3,67
+Steven Baker,ST.LUKE'S,4,67
+Daniel Black,SAINT LOUIS UNIVERSITY,4,67
+Tyler Hill,ST.LUKE'S,1,80
+Stephanie Johnson,BJC WEST COUNTY,3,67
+Crystal Bryant,SAINT LOUIS UNIVERSITY,2,80
+Julie Ingram,BJC,3,67
+Danielle Mckenzie,BJC WEST COUNTY,6,57
+Craig Poole,BJC,0,80
+Melissa Lee,SAINT LOUIS UNIVERSITY,1,80
+Rebecca Fox,MISSOURI BAPTIST,4,67
+Justin Le,SAINT LOUIS UNIVERSITY,2,80
+Chad Gregory,BJC WEST COUNTY,2,80
+Marissa Park,SAINT LOUIS UNIVERSITY,2,80
+Sandra Smith,BJC,2,80
+Jason Tran,BJC WEST COUNTY,6,57
+Andrea Young,ST.LUKE'S,3,67
+Shelley Wilson,MISSOURI BAPTIST,3,67
+Robert Sharp,BJC WEST COUNTY,3,67
+Stephanie Scott,ST.LUKE'S,3,67
+Amanda Griffith,MISSOURI BAPTIST,4,67
+Rodney Smith,BJC WEST COUNTY,3,67
+Kaitlin Young,BJC WEST COUNTY,5,57
+Darlene Reyes,BJC,2,80
+Russell Murray,ST.LUKE'S,3,67
+Bradley Parker,ST.LUKE'S,4,67
+Matthew Fischer,ST.LUKE'S,3,67
+Vincent Berger,ST.LUKE'S,2,80
+Andrew Baker,BJC,2,80
+Angela Parsons,BJC WEST COUNTY,2,80
+Victoria Baker,ST.LUKE'S,4,67
+Renee Hopkins,BJC WEST COUNTY,2,80
+Leslie Hunter,MISSOURI BAPTIST,3,67
+Susan Graham,BJC WEST COUNTY,3,67
+Timothy White,SAINT LOUIS UNIVERSITY,4,67
+Shannon Hamilton,BJC WEST COUNTY,4,67
+Brian Olson,ST.MARY'S,1,80
+Rodney Sherman,ST.MARY'S,1,80
+Daniel Harris,BJC WEST COUNTY,3,67
+April Marks,ST.MARY'S,2,80
+Michael Rose,BJC,4,67
+Alexander Cervantes,SAINT LOUIS UNIVERSITY,2,80
+Lauren Aguilar,MISSOURI BAPTIST,4,67
+Adam Bass,BJC,2,80
+Rhonda Williams,BJC WEST COUNTY,5,57
+Melissa White,ST.LUKE'S,0,80
+David Li,BJC,1,80
+Emily Mcclure,ST.LUKE'S,4,67
+Donald Rogers,ST.LUKE'S,3,67
+Shane Haley,SAINT LOUIS UNIVERSITY,6,57
+John Perez,ST.LUKE'S,0,80
+Raymond Frye,ST.LUKE'S,3,67
+Richard James,BJC,2,80
+Gerald Walters,ST.LUKE'S,4,67
+Jesus Shepherd,ST.MARY'S,5,57
+Cindy Garrett,BJC,6,57
+Richard Johnston,ST.LUKE'S,3,67
+Jennifer Reyes,MISSOURI BAPTIST,6,57
+Dawn Coleman,SAINT LOUIS UNIVERSITY,0,80
+Amy Schmidt,MISSOURI BAPTIST,2,80
+Jonathan Mcdaniel,ST.MARY'S,6,57
+Diane Howard,BJC,3,67
+Lisa Wilkerson,SAINT LOUIS UNIVERSITY,5,57
+Jason King,ST.MARY'S,6,57
+Alyssa Mata,ST.LUKE'S,2,80
+Helen Silva,BJC,3,67
+William Simon,BJC,4,67
+Melissa Campbell,BJC WEST COUNTY,2,80
+Kevin Burnett,ST.LUKE'S,4,67
+Derek Mosley,ST.MARY'S,2,80
+Mary Nicholson,MISSOURI BAPTIST,3,67
+Caitlyn Bennett,BJC,3,67
+Karen Byrd,MISSOURI BAPTIST,3,67
+Latasha Hawkins,MISSOURI BAPTIST,3,67
+Melissa Rodriguez,BJC,2,80
+Brian Holt,SAINT LOUIS UNIVERSITY,4,67
+Ian Shaw,BJC,5,57
+Thomas Chavez,ST.LUKE'S,0,80
+Jon Mcintyre,SAINT LOUIS UNIVERSITY,3,67
+Emily Haynes,BJC WEST COUNTY,3,67
+Hannah Mcknight,BJC,1,80
+David Massey,SAINT LOUIS UNIVERSITY,2,80
+Jill Colon,MISSOURI BAPTIST,1,80
+Sandra Wright,SAINT LOUIS UNIVERSITY,2,80
+Veronica Wagner,MISSOURI BAPTIST,1,80
+Tonya Harris,MISSOURI BAPTIST,2,80
+Walter Lewis,ST.MARY'S,6,57
+Kari Park,BJC WEST COUNTY,5,57
+Chad Pineda,ST.MARY'S,3,67
+David Stone,BJC,1,80
+Charles Choi,BJC WEST COUNTY,3,67
+Randall Butler,BJC,0,80
+Douglas Turner,BJC WEST COUNTY,2,80
+Madison Mcneil,SAINT LOUIS UNIVERSITY,6,57
+Chad Haney,SAINT LOUIS UNIVERSITY,3,67
+Ricky Watson,ST.MARY'S,4,67
+Steven Long,BJC,3,67
+Jonathan Murray,MISSOURI BAPTIST,1,80
+Jerry Ramirez,ST.MARY'S,3,67
+Randy Wallace,BJC,2,80
+Nathan Gonzalez,SAINT LOUIS UNIVERSITY,1,80
+Daniel Weiss,BJC,4,67
+James Brewer,BJC WEST COUNTY,0,80
+Heather Morgan,ST.LUKE'S,2,80
+Charles Edwards,SAINT LOUIS UNIVERSITY,5,57
+Christina Lewis,ST.LUKE'S,4,67
+Frank Riley,BJC WEST COUNTY,3,67
+Rebecca Gomez,BJC,2,80
+Christopher Pruitt,MISSOURI BAPTIST,1,80
+Dr. Steven Williams DVM,BJC,3,67
+Ryan Rush,SAINT LOUIS UNIVERSITY,5,57
+Rhonda Carr,BJC,3,67
+Miss Kimberly Rios MD,MISSOURI BAPTIST,3,67
+Ashley Barton,BJC WEST COUNTY,6,57
+Anna Grant,MISSOURI BAPTIST,3,67
+Amanda Johnson,MISSOURI BAPTIST,2,80
+Emily Thomas,MISSOURI BAPTIST,3,67
+Christy Jones,BJC,4,67
+Danny Foster,MISSOURI BAPTIST,3,67
+James Allen,ST.MARY'S,4,67
+Tyrone Jimenez,SAINT LOUIS UNIVERSITY,4,67
+Cynthia Hopkins,BJC WEST COUNTY,1,80
+Devon Wilcox,ST.LUKE'S,1,80
+John Farley,ST.MARY'S,4,67
+Hector Arroyo,SAINT LOUIS UNIVERSITY,3,67
+Brandon Thompson,ST.LUKE'S,1,80
+Scott Patel,BJC,3,67
+Karen Bishop,SAINT LOUIS UNIVERSITY,2,80
+Tony Wheeler,ST.LUKE'S,4,67
+Arthur Munoz,BJC,4,67
+Edward Holloway,BJC WEST COUNTY,4,67
+Lisa Perry,BJC WEST COUNTY,3,67
+Pamela Green,BJC,4,67
+Kimberly Macdonald,ST.LUKE'S,3,67
+Thomas Colon,SAINT LOUIS UNIVERSITY,3,67
+Paul Davis,SAINT LOUIS UNIVERSITY,2,80
+Ronnie Rush,SAINT LOUIS UNIVERSITY,1,80
+Erik Wilson,BJC WEST COUNTY,4,67
+Crystal Clark,SAINT LOUIS UNIVERSITY,4,67
+Megan Smith,BJC WEST COUNTY,6,57
+Jonathan Durham,BJC WEST COUNTY,1,80
+Timothy Hawkins,MISSOURI BAPTIST,0,80
+Christopher Perry,ST.MARY'S,1,80
+Samuel Duke,MISSOURI BAPTIST,2,80
+Kevin Mason,BJC WEST COUNTY,6,57
+Ian Clark,BJC,2,80
+Ryan Boyd,BJC WEST COUNTY,6,57
+Valerie Calderon,ST.MARY'S,3,67
+Ryan Davis,ST.LUKE'S,3,67
+Sara Smith,BJC WEST COUNTY,0,80
+Samuel Keith,BJC,4,67
+Renee White,ST.MARY'S,4,67
+Heidi Johnson,BJC WEST COUNTY,3,67
+Tara Walker,ST.MARY'S,5,57
+Nathan Lee,ST.MARY'S,2,80
+Victor Reyes,ST.LUKE'S,2,80
+Rebecca Jones,BJC WEST COUNTY,4,67
+Susan Ryan,MISSOURI BAPTIST,4,67
+Rachel Richmond,SAINT LOUIS UNIVERSITY,3,67
+Leslie Smith,SAINT LOUIS UNIVERSITY,1,80
+Jorge Williams,SAINT LOUIS UNIVERSITY,4,67
+Kelly Lewis,ST.MARY'S,1,80
+Mathew Welch,ST.MARY'S,3,67
+Lauren Burns,SAINT LOUIS UNIVERSITY,3,67
+Margaret Beasley,MISSOURI BAPTIST,3,67
+Patricia Gordon,BJC WEST COUNTY,2,80
+Martha Richardson,BJC WEST COUNTY,1,80
+Heather Yates,BJC WEST COUNTY,2,80
+Mark Pearson,SAINT LOUIS UNIVERSITY,2,80
+Melanie Rollins,MISSOURI BAPTIST,4,67
+Darren Mosley,BJC WEST COUNTY,2,80
+Kelly Smith,SAINT LOUIS UNIVERSITY,2,80
+Teresa Morton,ST.MARY'S,2,80
+Eric Hess,SAINT LOUIS UNIVERSITY,3,67
+Mary Ramirez,MISSOURI BAPTIST,5,57
+Michael Gilbert,ST.MARY'S,3,67
+Daniel Moody,MISSOURI BAPTIST,3,67
+Pamela Moore,SAINT LOUIS UNIVERSITY,5,57
+John Spence,BJC WEST COUNTY,1,80
+Sandra Hancock,MISSOURI BAPTIST,3,67
+James Anderson,BJC,3,67
+Pamela Hamilton,BJC,2,80
+Brenda Johnson,MISSOURI BAPTIST,2,80
+Melissa Hernandez,SAINT LOUIS UNIVERSITY,2,80
+Barry Fisher,ST.MARY'S,1,80
+Samuel Pruitt,BJC WEST COUNTY,0,80
+Theresa Barnes,BJC WEST COUNTY,3,67
+Chase Hamilton,BJC,3,67
+Joshua Villa,BJC,3,67
+Carol Ramirez,BJC WEST COUNTY,1,80
+Stacy Olsen,BJC,6,57
+Samantha Pena,BJC,1,80
+Corey Cook,ST.MARY'S,3,67
+Mrs. Brittany Flynn,BJC,4,67
+Allen Nicholson,ST.MARY'S,5,57
+Robert Snow,MISSOURI BAPTIST,1,80
+James Wallace,ST.MARY'S,6,57
+Francisco Fernandez,ST.MARY'S,2,80
+Wyatt Baird,BJC WEST COUNTY,3,67
+Randy Johnson,BJC WEST COUNTY,2,80
+Maria Paul,BJC WEST COUNTY,3,67
+Kent Carr,ST.MARY'S,2,80
+Mark Thomas,ST.MARY'S,3,67
+Danielle Peterson,ST.MARY'S,3,67
+Jason Pratt,BJC WEST COUNTY,3,67
+Melissa Mcclain,MISSOURI BAPTIST,6,57
+Jacqueline Blankenship,MISSOURI BAPTIST,4,67
+Michael Nicholson,ST.LUKE'S,4,67
+Kathryn Hill,ST.LUKE'S,5,57
+Timothy Coleman,ST.LUKE'S,3,67
+Troy Johnson,BJC,5,57
+Joseph Mathis,MISSOURI BAPTIST,2,80
+Jeffrey Lopez,BJC WEST COUNTY,1,80
+Kimberly Hill,ST.MARY'S,2,80
+Barbara Smith,BJC WEST COUNTY,1,80
+Robert Quinn,BJC WEST COUNTY,5,57
+Jeremy Garrison,BJC WEST COUNTY,2,80
+Michael Davis,SAINT LOUIS UNIVERSITY,5,57
+Natalie Richmond,MISSOURI BAPTIST,0,80
+Jamie Hughes,SAINT LOUIS UNIVERSITY,2,80
+Jeffrey Jordan,MISSOURI BAPTIST,2,80
+Raven Sexton,BJC,3,67
+Tim Lynch,BJC,4,67
+Joy Davis,ST.MARY'S,4,67
+James Grimes,ST.LUKE'S,2,80
+Barry Williams,SAINT LOUIS UNIVERSITY,4,67
+Kathryn Nelson,MISSOURI BAPTIST,1,80
+David Ramirez,BJC WEST COUNTY,4,67
+Linda Oconnor,BJC WEST COUNTY,5,57
+Christopher Huang,ST.MARY'S,3,67
+Anthony Gray,SAINT LOUIS UNIVERSITY,3,67
+Christopher Phillips,BJC WEST COUNTY,2,80
+Victoria West,MISSOURI BAPTIST,5,57
+Teresa Mendoza,SAINT LOUIS UNIVERSITY,4,67
+Jason Brown,BJC WEST COUNTY,2,80
+Heidi Campbell,MISSOURI BAPTIST,1,80
+Samantha Salazar,ST.LUKE'S,3,67
+Melinda Hernandez,BJC,3,67
+Rebecca Washington,BJC,4,67
+Joshua Skinner,ST.LUKE'S,1,80
+Sean Robertson,BJC WEST COUNTY,3,67
+Justin Jones,BJC WEST COUNTY,4,67
+Brandon Casey,MISSOURI BAPTIST,3,67
+Jill Hancock,MISSOURI BAPTIST,2,80
+Nicole Hart,ST.LUKE'S,4,67
+Todd Rogers,SAINT LOUIS UNIVERSITY,2,80
+Raymond Harding,BJC,3,67
+Steven House,ST.MARY'S,2,80
+Danielle Holmes,MISSOURI BAPTIST,1,80
+Tina Wilson,ST.LUKE'S,3,67
+Lindsey Jones,BJC,5,57
+Samantha Martinez,BJC,0,80
+Gregory Mejia,BJC,1,80
+Tonya Craig,ST.LUKE'S,2,80
+Jacqueline Guzman,ST.MARY'S,0,80
+Thomas Santiago,BJC WEST COUNTY,3,67
+Dawn Wright,SAINT LOUIS UNIVERSITY,4,67
+Eric Walters,ST.LUKE'S,1,80
+Matthew Brown,ST.LUKE'S,6,57
+Derek Travis,ST.MARY'S,6,57
+Jessica Jackson,SAINT LOUIS UNIVERSITY,3,67
+Laura Robertson,BJC WEST COUNTY,4,67
+Briana Cooper,ST.LUKE'S,4,67
+Debra Bennett,BJC WEST COUNTY,4,67
+Marissa Webb,SAINT LOUIS UNIVERSITY,3,67
+Patricia Maldonado,MISSOURI BAPTIST,4,67
+Misty Roth DDS,ST.LUKE'S,5,57
+Dawn Johnson,SAINT LOUIS UNIVERSITY,4,67
+Jacob Haley,MISSOURI BAPTIST,4,67
+Olivia Williams,BJC WEST COUNTY,5,57
+Clifford Peterson,BJC,6,57
+Natalie Morales,ST.MARY'S,3,67
+Robert Hicks,BJC WEST COUNTY,3,67
+Adrienne Hutchinson,SAINT LOUIS UNIVERSITY,3,67
+Perry Rice,SAINT LOUIS UNIVERSITY,2,80
+Zachary Tyler,ST.MARY'S,3,67
+Brittany Roberts,BJC,4,67
+Victoria Phelps,ST.MARY'S,3,67
+Tiffany Aguilar,BJC WEST COUNTY,3,67
+Brent Kennedy,ST.MARY'S,2,80
+Erica Johnson,SAINT LOUIS UNIVERSITY,2,80
+Jamie Powell,ST.MARY'S,1,80
+Linda Anderson,ST.MARY'S,1,80
+Emily Daniel,BJC WEST COUNTY,1,80
+Eric Vasquez,ST.MARY'S,3,67
+Crystal Kim,SAINT LOUIS UNIVERSITY,4,67
+Kristen Olson,BJC,6,57
+Mark Dawson,BJC WEST COUNTY,3,67
+Darren Velez,ST.LUKE'S,5,57
+Jacob Williams,SAINT LOUIS UNIVERSITY,3,67
+Jennifer Blair,ST.MARY'S,2,80
+Neil Thompson,BJC,6,57
+Victoria Humphrey,SAINT LOUIS UNIVERSITY,3,67
+Justin Rubio,ST.LUKE'S,6,57
+Frank Robertson,BJC,2,80
+James Ford,ST.MARY'S,2,80
+Leah Reeves,BJC,3,67
+Dawn Nichols,BJC,2,80
+Amanda Nelson,ST.LUKE'S,3,67
+Ebony Chandler MD,ST.MARY'S,2,80
+Anthony Lopez,BJC,3,67
+Daniel Jefferson,BJC,3,67
+Ryan Miller,ST.LUKE'S,4,67
+Jessica Munoz,ST.MARY'S,0,80
+Stacey White,BJC,2,80
+Daniel Allen,SAINT LOUIS UNIVERSITY,0,80
+Robert Barnes,ST.LUKE'S,3,67
+Thomas Bender,SAINT LOUIS UNIVERSITY,3,67
+Ian Fletcher,MISSOURI BAPTIST,4,67
+Terri Lynch,ST.LUKE'S,5,57
+Kimberly Acosta,ST.MARY'S,3,67
+Dawn Hughes,ST.LUKE'S,3,67
+Ryan Mcdaniel,ST.MARY'S,2,80
+Ebony Flores,ST.MARY'S,3,67
+Julia Simpson,ST.MARY'S,3,67
+Joshua Garcia,SAINT LOUIS UNIVERSITY,3,67
+Stephanie Walker,ST.LUKE'S,4,67
+Adrian Rose,BJC,3,67
+Evan Jones,ST.MARY'S,2,80
+Andrew Benton,BJC WEST COUNTY,5,57
+Shawn White,ST.LUKE'S,1,80
+Kevin Hill,BJC WEST COUNTY,3,67
+Kimberly Osborn,ST.MARY'S,3,67
+Laura Scott,ST.LUKE'S,1,80
+Patricia Murphy,BJC,1,80
+Christopher Brown,SAINT LOUIS UNIVERSITY,6,57
+Willie Hernandez,BJC,3,67
+William May,BJC,3,67
+Jesus Stewart,MISSOURI BAPTIST,3,67
+Wendy Cox,BJC WEST COUNTY,3,67
+Ethan Ortiz,ST.LUKE'S,2,80
+Crystal Wilson,MISSOURI BAPTIST,3,67
+Kenneth Clark,BJC WEST COUNTY,3,67
+Melissa Johnson,ST.LUKE'S,3,67
+Dr. Lauren Cunningham,MISSOURI BAPTIST,2,80
+Gabriel Fowler,MISSOURI BAPTIST,3,67
+Michael Carson,SAINT LOUIS UNIVERSITY,5,57
+Michael Baker,SAINT LOUIS UNIVERSITY,2,80
+Michelle Velez,BJC,3,67
+Michael Bennett,SAINT LOUIS UNIVERSITY,2,80
+Rebecca Dickerson,ST.MARY'S,3,67
+Carla Mills,MISSOURI BAPTIST,5,57
+Catherine Lynch,SAINT LOUIS UNIVERSITY,5,57
+Erin Parrish,BJC,2,80
+Sheila Bell,ST.LUKE'S,6,57
+Scott Bartlett,BJC,3,67
+Jason Stewart II,SAINT LOUIS UNIVERSITY,0,80
+Zachary Durham,SAINT LOUIS UNIVERSITY,2,80
+Jonathan Bell,BJC,6,57
+Paul Welch,SAINT LOUIS UNIVERSITY,2,80
+John Williams,SAINT LOUIS UNIVERSITY,5,57
+Stephanie Brown,ST.LUKE'S,2,80
+Laura Davis,ST.MARY'S,1,80
+Karla Irwin,BJC,3,67
+Reginald Hall,BJC WEST COUNTY,4,67
+Gary Johnson,MISSOURI BAPTIST,6,57
+Roy Miller,ST.LUKE'S,6,57
+Ronald Buck,SAINT LOUIS UNIVERSITY,3,67
+Paul Davis,ST.LUKE'S,4,67
+Ricky Suarez,SAINT LOUIS UNIVERSITY,3,67
+Jennifer Ferguson,BJC WEST COUNTY,5,57
+Melissa Lucas,ST.LUKE'S,0,80
+Jonathan Davis,ST.MARY'S,3,67
+Dawn Bell,BJC,1,80
+Michael Martin,BJC WEST COUNTY,2,80
+Ashley Nixon,SAINT LOUIS UNIVERSITY,3,67
+Joseph Taylor,SAINT LOUIS UNIVERSITY,1,80
+Pedro West,BJC,3,67
+Jennifer Moreno,ST.MARY'S,2,80
+Alexandra Greene,ST.LUKE'S,4,67
+Vanessa Luna,ST.MARY'S,1,80
+William Hall,BJC,4,67
+Lisa Warren,MISSOURI BAPTIST,6,57
+Jason Anderson,SAINT LOUIS UNIVERSITY,5,57
+Arthur Callahan,BJC,3,67
+Kenneth Thomas,MISSOURI BAPTIST,1,80
+Matthew Peterson,ST.MARY'S,6,57
+Monica Brennan,BJC,2,80
+Caitlin Dean,ST.LUKE'S,0,80
+Craig Wells,MISSOURI BAPTIST,3,67
+Gary Richard,BJC,0,80
+Melissa Smith,MISSOURI BAPTIST,0,80
+William Green,SAINT LOUIS UNIVERSITY,3,67
+Jacob Blackwell,MISSOURI BAPTIST,3,67
+Hector Lee,ST.MARY'S,4,67
+Natasha Adkins,SAINT LOUIS UNIVERSITY,4,67
+James Dixon,SAINT LOUIS UNIVERSITY,6,57
+Collin Garcia,BJC WEST COUNTY,6,57
+Christopher Chavez,BJC,3,67
+Kara Walker,BJC,5,57
+Jessica Hernandez,SAINT LOUIS UNIVERSITY,2,80
+Kathy Parks,SAINT LOUIS UNIVERSITY,3,67
+Sarah Ingram,BJC,4,67
+Kevin Clark,BJC,2,80
+Jill Arias,BJC,5,57
+Christine Bowen,SAINT LOUIS UNIVERSITY,1,80
+Mark Tate,MISSOURI BAPTIST,2,80
+Megan Palmer,SAINT LOUIS UNIVERSITY,4,67
+Laura Miller,MISSOURI BAPTIST,5,57
+Jamie Pennington,BJC WEST COUNTY,5,57
+Natalie Herrera,BJC WEST COUNTY,5,57
+Nicole Anderson,BJC,3,67
+Sarah Brown,MISSOURI BAPTIST,4,67
+John Walter,BJC WEST COUNTY,5,57
+Mario Padilla,MISSOURI BAPTIST,0,80
+Brent Bates,BJC WEST COUNTY,0,80
+John Lewis,SAINT LOUIS UNIVERSITY,5,57
+Christopher Mendoza,MISSOURI BAPTIST,3,67
+Christopher Henson,BJC WEST COUNTY,1,80
+Luis Harris,BJC,5,57
+Jerry Patterson,MISSOURI BAPTIST,3,67
+Danielle Walker,ST.LUKE'S,3,67
+Jesse Harris,BJC,5,57
+Lisa Rogers,SAINT LOUIS UNIVERSITY,1,80
+Carly Williams,ST.MARY'S,2,80
+Danielle Stewart,SAINT LOUIS UNIVERSITY,4,67
+Janet Henderson,MISSOURI BAPTIST,4,67
+Jennifer Castillo,MISSOURI BAPTIST,3,67
+Nicholas Hatfield,SAINT LOUIS UNIVERSITY,3,67
+Mr. Scott Anderson,BJC WEST COUNTY,1,80
+Lisa Reynolds,BJC WEST COUNTY,4,67
+Francisco Acosta,SAINT LOUIS UNIVERSITY,3,67
+Jennifer Robinson,ST.LUKE'S,2,80
+Jeffery Le,SAINT LOUIS UNIVERSITY,3,67
+Christina Watson,SAINT LOUIS UNIVERSITY,1,80
+Shawn Mcdowell,BJC WEST COUNTY,4,67
+Maria Garcia,SAINT LOUIS UNIVERSITY,2,80
+Michael Santiago,BJC,3,67
+Eric Solis,ST.LUKE'S,6,57
+John Harper,MISSOURI BAPTIST,3,67
+Paula Pollard,SAINT LOUIS UNIVERSITY,0,80
+Calvin Newton,MISSOURI BAPTIST,4,67
+Michelle Simpson,ST.MARY'S,3,67
+Chad Duffy,MISSOURI BAPTIST,5,57
+Tamara Lozano,MISSOURI BAPTIST,5,57
+Robert Alvarado,BJC WEST COUNTY,0,80
+Brandon Mills,MISSOURI BAPTIST,4,67
+Elizabeth Thomas,BJC,1,80
+Pamela Mendez,BJC,1,80
+Casey Miller,BJC WEST COUNTY,3,67
+Ashley Hood,MISSOURI BAPTIST,1,80
+Kathy Reid,ST.LUKE'S,2,80
+Angela Parks,BJC,4,67
+Carrie Black,MISSOURI BAPTIST,1,80
+Lori Valenzuela,BJC,3,67
+Melanie Hernandez,MISSOURI BAPTIST,4,67
+Sean French,BJC,4,67
+David Lewis,ST.LUKE'S,5,57
+John Williams,BJC WEST COUNTY,3,67
+Sean Hall,MISSOURI BAPTIST,0,80
+Zachary Fernandez,ST.LUKE'S,4,67
+Cesar Olson,BJC WEST COUNTY,1,80
+Teresa Peterson,BJC WEST COUNTY,2,80
+Samuel Ramirez,ST.LUKE'S,2,80
+Alyssa Park,ST.LUKE'S,2,80
+Daniel Golden,BJC WEST COUNTY,3,67
+Ruth Hayes,BJC WEST COUNTY,3,67
+Tonya Freeman,ST.LUKE'S,3,67
+Brittany Chavez,ST.MARY'S,2,80
+Kelsey Roth,SAINT LOUIS UNIVERSITY,3,67
+David James,MISSOURI BAPTIST,2,80
+Michael Wallace,MISSOURI BAPTIST,4,67
+Stephanie Sexton,ST.LUKE'S,3,67
+Hunter Cook,MISSOURI BAPTIST,3,67
+Stacy Pearson,SAINT LOUIS UNIVERSITY,5,57
+Danielle Murray,BJC,5,57
+Alan Ali,MISSOURI BAPTIST,2,80
+Theodore Davis,ST.MARY'S,2,80
+Nathan Johnson,SAINT LOUIS UNIVERSITY,5,57
+Heather Parrish,SAINT LOUIS UNIVERSITY,2,80
+Robert Edwards,ST.MARY'S,1,80
+Steve Howard,ST.MARY'S,2,80
+Todd Clark,SAINT LOUIS UNIVERSITY,4,67
+Justin Douglas,BJC WEST COUNTY,3,67
+Caroline Sawyer,SAINT LOUIS UNIVERSITY,3,67
+David Taylor,BJC,1,80
+Sarah Kelly,BJC WEST COUNTY,2,80
+Thomas Torres,MISSOURI BAPTIST,1,80
+Patricia Keller,BJC,0,80
+Erica Brown,BJC,3,67
+Katherine Bailey,MISSOURI BAPTIST,0,80
+Jorge Thomas,MISSOURI BAPTIST,4,67
+Ashley Walker,ST.MARY'S,3,67
+Donna Lester,BJC WEST COUNTY,3,67
+Robert Li,BJC WEST COUNTY,3,67
+Alan Cunningham,MISSOURI BAPTIST,3,67
+Peter Blair,ST.LUKE'S,2,80
+Willie Kirk,ST.LUKE'S,0,80
+Michelle Barber,ST.LUKE'S,3,67
+Gabriel Andersen,ST.LUKE'S,3,67
+Leah Rich,ST.LUKE'S,3,67
+Dr. Kimberly Booth DVM,BJC WEST COUNTY,2,80
+Jeremy May,BJC,3,67
+Elizabeth Ellis,MISSOURI BAPTIST,5,57
+Michael Harris,BJC WEST COUNTY,2,80
+David Olsen,BJC WEST COUNTY,1,80
+Matthew Morgan,BJC,6,57
+Shelly Lynch,BJC WEST COUNTY,2,80
+Denise Frazier,ST.LUKE'S,1,80
+Michael Nelson,BJC WEST COUNTY,3,67
+Jerome Newman,SAINT LOUIS UNIVERSITY,1,80
+Carolyn Martinez,ST.LUKE'S,2,80
+Megan Miller,ST.MARY'S,3,67
+Mr. James Smith,ST.MARY'S,5,57
+Kenneth Booth,BJC WEST COUNTY,5,57
+Jennifer Welch,ST.MARY'S,1,80
+Zachary Smith,SAINT LOUIS UNIVERSITY,3,67
+Molly Bentley,ST.LUKE'S,4,67
+Cory Davidson,MISSOURI BAPTIST,3,67
+Judith Santana,BJC,4,67
+Corey Gutierrez,BJC WEST COUNTY,1,80
+Ryan Hall,ST.LUKE'S,4,67
+Amanda Cooley,SAINT LOUIS UNIVERSITY,3,67
+Courtney George,MISSOURI BAPTIST,2,80
+Judy Owens,ST.MARY'S,3,67
+Erin Day,ST.LUKE'S,3,67
+Brett Clark,BJC WEST COUNTY,4,67
+Hannah Fisher,BJC,3,67
+Ms. Shirley Stewart DDS,SAINT LOUIS UNIVERSITY,5,57
+Grace Chambers,BJC WEST COUNTY,1,80
+Hannah Garcia,ST.MARY'S,3,67
+Roger Ramirez,BJC,6,57
+Sandra Frazier,ST.LUKE'S,5,57
+Monique Schmidt,BJC,2,80
+Frank Whitaker,ST.LUKE'S,4,67
+Kyle Castillo,BJC WEST COUNTY,6,57
+Kristi Joseph,ST.LUKE'S,2,80
+Jerry Shepard,ST.MARY'S,3,67
+Brittany Garcia,BJC,0,80
+Jacob Gomez,ST.MARY'S,3,67
+Elizabeth Brown,ST.MARY'S,2,80
+Kristina Montgomery,ST.LUKE'S,5,57
+George Nelson,BJC WEST COUNTY,5,57
+Kristen Cabrera,ST.MARY'S,3,67
+Kyle Wright,ST.MARY'S,6,57
+Daniel Mcbride,SAINT LOUIS UNIVERSITY,4,67
+Jesse Ortiz,ST.MARY'S,2,80
+Brandon Phillips,BJC,4,67
+Timothy Rivera,ST.LUKE'S,3,67
+Wanda Davis,SAINT LOUIS UNIVERSITY,1,80
+Alyssa Rodriguez,BJC WEST COUNTY,0,80
+Curtis Smith,MISSOURI BAPTIST,4,67
+Laurie Smith,SAINT LOUIS UNIVERSITY,3,67
+Brittany Collier,SAINT LOUIS UNIVERSITY,5,57
+Wendy Wright,SAINT LOUIS UNIVERSITY,3,67
+Michelle Carpenter,ST.MARY'S,5,57
+Ryan Yates,SAINT LOUIS UNIVERSITY,2,80
+Dr. Vincent Turner,SAINT LOUIS UNIVERSITY,2,80
+Michael Davis,BJC WEST COUNTY,2,80
+Mr. Tyler Hendrix,ST.MARY'S,3,67
+Regina Clark,ST.MARY'S,4,67
+Brandon Kelley,ST.MARY'S,3,67
+Lori Moses,SAINT LOUIS UNIVERSITY,3,67
+Derek Caldwell,BJC,3,67
+Cory Pollard,BJC,3,67
+Lisa Bauer,BJC,1,80
+Amy Nash,BJC WEST COUNTY,2,80
+Billy Watkins,ST.LUKE'S,0,80
+Andrew Flores,ST.LUKE'S,2,80
+Collin Clark,ST.MARY'S,3,67
+Lynn Carr,ST.MARY'S,3,67
+Michael Barnes,BJC WEST COUNTY,3,67
+Karen Maynard,BJC,5,57
+Katrina Brown,BJC WEST COUNTY,1,80
+Tiffany Ruiz,ST.LUKE'S,4,67
+Sarah Henderson,ST.MARY'S,3,67
+Tracy Strong,MISSOURI BAPTIST,1,80
+Melissa Chavez,ST.LUKE'S,5,57
+Vanessa Rose,BJC,2,80
+Susan Williams,ST.MARY'S,3,67
+Nicole Morse,ST.MARY'S,4,67
+Kristina Moran,BJC,2,80
+Michelle Fisher,SAINT LOUIS UNIVERSITY,6,57
+Noah Wilson,ST.LUKE'S,1,80
+Keith Morton,BJC,4,67
+Darren Calhoun,ST.LUKE'S,3,67
+Elizabeth Nunez,ST.MARY'S,3,67
+Patrick Matthews,MISSOURI BAPTIST,1,80
+Shannon Coleman,ST.MARY'S,3,67
+Elizabeth Graham,ST.MARY'S,4,67
+Mary Harmon,ST.MARY'S,3,67
+Scott Morgan,BJC,2,80
+Kendra Potter,BJC,3,67
+Jennifer Bishop,BJC,6,57
+Wendy Brooks,MISSOURI BAPTIST,2,80
+Peter Henderson,ST.MARY'S,0,80
+Danielle Vaughan,ST.LUKE'S,3,67
+Paul Phillips,ST.LUKE'S,2,80
+Jessica Ramirez,BJC,1,80
+Colleen Robinson,SAINT LOUIS UNIVERSITY,1,80
+Amy Sanchez,ST.MARY'S,3,67
+Andrew Wilson,MISSOURI BAPTIST,0,80
+Matthew Collins,ST.LUKE'S,2,80
+Jill Lewis,BJC WEST COUNTY,4,67
+Kristen Hall,ST.MARY'S,3,67
+Jordan Rivera,BJC WEST COUNTY,3,67
+Jonathon Anderson,SAINT LOUIS UNIVERSITY,3,67
+Julia Curtis,SAINT LOUIS UNIVERSITY,3,67
+David Jones,BJC,4,67
+Christopher Bennett,ST.LUKE'S,3,67
+Anthony Wright,SAINT LOUIS UNIVERSITY,5,57
+Christopher Paul,ST.MARY'S,2,80
+Justin Davidson,BJC WEST COUNTY,6,57
+Dr. Heather Martin,BJC,2,80
+Kristopher Baker,ST.MARY'S,5,57
+Katie Johnson,SAINT LOUIS UNIVERSITY,3,67
+Christian Bowen,BJC WEST COUNTY,3,67
+Melissa Carter,BJC,3,67
+Shannon Walker,ST.LUKE'S,2,80
+Amanda Singh,BJC,0,80
+Michael Sanders,ST.MARY'S,3,67
+Ryan Morris,BJC WEST COUNTY,1,80
+Michael Sanchez,BJC,1,80
+Erin Stevens,ST.MARY'S,3,67
+Kyle Pierce,BJC WEST COUNTY,1,80
+Christy Collins,ST.MARY'S,1,80
+Jessica Doyle,BJC,2,80
+Jessica Johnson,ST.MARY'S,5,57
+Cheryl Matthews,MISSOURI BAPTIST,2,80
+Molly Chen,BJC WEST COUNTY,5,57
+Kyle Price,ST.LUKE'S,2,80
+Christopher Stevens,ST.LUKE'S,2,80
+Traci Love,ST.MARY'S,0,80
+Heidi Haynes,SAINT LOUIS UNIVERSITY,2,80
+Sean Parker,BJC,1,80
+Timothy Smith,MISSOURI BAPTIST,3,67
+Austin Boone,BJC,3,67
+Todd Walls,BJC,2,80
+Richard Davis,BJC WEST COUNTY,3,67
+Erin Turner,SAINT LOUIS UNIVERSITY,3,67
+Matthew Riley,ST.LUKE'S,2,80
+Mark Cardenas,ST.MARY'S,5,57
+Tiffany Mcdonald,BJC WEST COUNTY,5,57
+Mrs. Stephanie Hebert PhD,BJC WEST COUNTY,4,67
+Amy Hernandez,SAINT LOUIS UNIVERSITY,2,80
+Bethany Molina,BJC,3,67
+Connor Patterson,MISSOURI BAPTIST,5,57
+James Brown,ST.MARY'S,4,67
+Alexander Cunningham,BJC,3,67
+Kathleen Fernandez,MISSOURI BAPTIST,4,67
+Joe Arnold,BJC,1,80
+Michael Thomas,MISSOURI BAPTIST,0,80
+Catherine Hampton,MISSOURI BAPTIST,2,80
+Stephen Palmer,ST.MARY'S,4,67
+Dennis Edwards DDS,MISSOURI BAPTIST,6,57
+Tiffany Flores,ST.LUKE'S,3,67
+Leslie Stewart,BJC,4,67
+Keith Caldwell,BJC,1,80
+Andrew Crosby,BJC,3,67
+John Alvarez,SAINT LOUIS UNIVERSITY,6,57
+Rachel Shannon,BJC WEST COUNTY,5,57
+Joanna Richardson DDS,MISSOURI BAPTIST,4,67
+Eric Watson,BJC WEST COUNTY,3,67
+Justin Lynch,BJC,1,80
+Cynthia Jones,MISSOURI BAPTIST,2,80
+Gary Cobb,ST.LUKE'S,1,80
+Daniel Potter,ST.LUKE'S,2,80
+Laurie Brady,MISSOURI BAPTIST,3,67
+Kellie Lane MD,BJC,3,67
+Sandra Bell,BJC,5,57
+Sarah Edwards,ST.MARY'S,2,80
+Amanda Knight,ST.LUKE'S,3,67
+William Nelson,ST.MARY'S,1,80
+Ashley Bernard,BJC,3,67
+Selena Taylor,BJC,4,67
+Linda Franco,BJC,2,80
+Charles Ramos,ST.LUKE'S,4,67
+Anthony Smith,ST.LUKE'S,2,80
+Andrew Cox,BJC WEST COUNTY,4,67
+Danielle Clayton,BJC WEST COUNTY,3,67
+Michael Wilcox,BJC WEST COUNTY,2,80
+Wendy Dunn,ST.LUKE'S,2,80
+Robert Maynard,SAINT LOUIS UNIVERSITY,5,57
+William Kaiser,ST.LUKE'S,5,57
+Erin Mejia,ST.MARY'S,5,57
+Kenneth Jones,ST.LUKE'S,4,67
+Janet Brown,BJC WEST COUNTY,3,67
+Hunter Fuentes,SAINT LOUIS UNIVERSITY,3,67
+William Arellano,BJC WEST COUNTY,2,80
+Cory Bowers,ST.MARY'S,3,67
+Luke Price,BJC WEST COUNTY,4,67
+Cindy Rodgers,ST.MARY'S,4,67
+Robert Tran,ST.LUKE'S,2,80
+Susan Ware,ST.MARY'S,4,67
+Jordan Gallegos,MISSOURI BAPTIST,4,67
+Kara Bennett,SAINT LOUIS UNIVERSITY,0,80
+Jason Clayton,BJC WEST COUNTY,2,80
+Lauren Bradley,SAINT LOUIS UNIVERSITY,3,67
+Pamela Clayton,BJC WEST COUNTY,4,67
+Kristina Cowan,ST.LUKE'S,1,80
+Anthony Hanson MD,MISSOURI BAPTIST,3,67
+Amanda Johnson,SAINT LOUIS UNIVERSITY,6,57
+Carl Short,BJC,3,67
+Taylor Price,SAINT LOUIS UNIVERSITY,2,80
+Katie Davis,ST.MARY'S,2,80
+Alison Duncan,ST.MARY'S,2,80
+Destiny Estrada,BJC,4,67
+Ronald Montoya,SAINT LOUIS UNIVERSITY,3,67
+Brooke Baker,BJC,6,57
+Kristen Williams,ST.LUKE'S,4,67
+Jacob Levine,ST.LUKE'S,5,57
