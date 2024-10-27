@@ -1,0 +1,3 @@
+DYSPNEA calculation was wrong. Will always return 0.
+BMI calculation is off.
+This results in your data being off.
